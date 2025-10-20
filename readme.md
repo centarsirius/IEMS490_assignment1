@@ -1,7 +1,7 @@
 # GenAI assignment 1 for IEMS 490
 (Sachin Venkatesh Thakku Saravana)
 
-This repository contains the code and instructions to run Assignment 1 of IEMS 490, focusing on both manual and automated prompt engineering. I have implemented various strategies to improve the performance of both Gemini-2.5-flash and Gemini-2.0-flash-lite on a math problem-solving task using the Gemini API and the GSM8K dataset (subsampled to 300). All the files are and datasets are self contained and can be run locally or inside a Docker container.
+This repository contains the code and instructions to run Assignment 1 of IEMS 490, focusing on both manual and automated prompt engineering. I have implemented various strategies to improve the performance of both Gemini-2.5-flash and Gemini-2.0-flash-lite on a math problem-solving task using the Gemini API and the GSM8K dataset (subsampled to 300). All the files and datasets are self contained and can be run locally or inside a Docker container.
 
 Related docker files and requirements included
 
