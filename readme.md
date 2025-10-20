@@ -12,6 +12,7 @@ Sampling 100 questions.
 
 --- Running Experiment with: 'Answer the following question with reasonable accuracy.' ---
 Q 1/100: Correct=True | Acc: 1.00
+
 Q 2/100: Correct=True | Acc: 1.00
 ...
 Q 93/100: Correct=False | Acc: 0.68
