@@ -1,4 +1,2 @@
-datasets
-google-genai
-llm-api
-re
+datasets==4.2.0
+google-genai==1.45.0
